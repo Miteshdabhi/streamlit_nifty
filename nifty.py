@@ -1,7 +1,6 @@
 import yfinance as yf
 import pandas_ta as ta
 import pandas as pd
-import talib 
 import numpy as np
 import streamlit as st
 import pandas as pd
